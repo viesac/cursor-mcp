@@ -1,0 +1,11 @@
+{
+  "name": "viesac",
+  "version": "1.0.0",
+  "description": "VAT/GST and EORI checks, VAT rates and audit evidence through your VIESAC account.",
+  "author": {"name": "Comet Group OÜ"},
+  "homepage": "https://viesac.eu",
+  "repository": "https://github.com/viesac/cursor-mcp",
+  "license": "MIT",
+  "keywords": ["vat", "gst", "eori", "compliance", "tax", "mcp"],
+  "logo": "assets/icon.png"
+}
